@@ -89,7 +89,14 @@ Related articles
 .. _Idea\: Group Chat Tunneling (Sync) with EH Forwarder Bot: https://blog.1a23.com/2017/01/28/Idea-Group-Chat-Tunneling-Sync-with-EH-Forwarder-Bot/
 .. _What’s so new in EH Forwarder Bot 2 (and its modules): https://blog.1a23.com/2018/02/28/What%E2%80%99s-so-new-in-EH-Forwarder-Bot-2-and-its-modules/
 
-
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/AJTGX/MHFORWARD">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
 License
 -------
 
